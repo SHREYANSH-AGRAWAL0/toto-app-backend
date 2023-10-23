@@ -13,9 +13,3 @@ This is a simple REST API built using Node.js for managing notes.
 
 - Node.js installed on your machine.
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/notes-rest-api.git
